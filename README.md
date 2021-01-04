@@ -1,4 +1,4 @@
-# Dictionary-_DSProject
+# Dictionary_DSProject
 
 Dictionary Project @sukkur_IBA_University by MAHNOOR_SHAIKH RUBAB_KHALID
 
