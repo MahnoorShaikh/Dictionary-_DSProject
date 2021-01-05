@@ -2,7 +2,7 @@
 
 Dictionary Project @sukkur_IBA_University by MAHNOOR_SHAIKH RUBAB_KHALID
 
-Following things Have been used in the 
+Following things Have been used in the project
 
 **String-Array-stack-trees.. etc
 
